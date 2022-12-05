@@ -1,1 +1,10 @@
-# FINAL
+# FINAL 
+In the pandemic era, the Chinese government has over-prevented and controlled the epidemic by blocking off epidemic-intensive neighborhoods with iron gates, closing down dine-in restaurants and preventing access to public places without daily nucleic acid certificates. These perverse regulations have seriously affected people's regular lives and caused public discontent with society. And one of the public's online voices has been restricted by the Chinese media.
+
+Coming to a foreign land with an overwhelming fear of the epidemic, in addition to feeling free, allows for a more objective view of the matter. The project is a record of the chaotic and contradictory ideology of Chinese society at this time, graphically representing the state apparatus's coercive means overlaid with the people's spontaneous cries to express a public sentiment that will hopefully lead to social reflection and resonance among the people.
+
+The work uses rectangular to represent the deleted text, and the effect of typing a wireless loop indicates that there are people who have been speaking out and the problem has not been solved. In the background, the rotating squares are controlled by the mouse with intense rhythmic music, expressing the anger and tense atmosphere with every move the government makes. The human voice in English is no nucleic acid, no health code. Instead of giving us protection against the epidemic, these regulations have become a shackle on people's lives. Eventually, the repressed people shouted the words out. The voice creates a stark social conflict with articles that cannot be seen. 
+
+The code consists of several parts, cyclic typing effect, mouse-driven 3D sound visualization, and sound processing. The hard part for me is the 3D part, the setting of the mathematical parameters, and how to adjust to your ideal effect. And how to deal with the problem that the uploaded music is not fit the website. I need to improve the sound processing, so that the typing effect and the background music are more integrated into the rhythm.
+
+I hope that the improved video will not go viral, so that this sentiment will dissipate as soon as possible and the epidemic will leave us sooner, so that people can return to their regular lives.
